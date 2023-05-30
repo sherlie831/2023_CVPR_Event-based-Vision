@@ -45,7 +45,7 @@
 
 - [Adaptive Global Decay Process for Event Cameras](https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.pdf)
 
-  [code](https://github.com/neuromorphicparis/event batch)(Unavailable)
+  [code](https://github.com/neuromorphicparis/event_batch) (Unavailable)
 
 <a name="feature_tracking"></a>
 
